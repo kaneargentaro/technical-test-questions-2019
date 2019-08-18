@@ -1,0 +1,7 @@
+# Queue Stack Question
+
+A program that creates a Queue class and Enqueue(), and Dequeue() methods inside of it. The Queue can only use stack members inside of it, and it is assumed that the Push(), and Pop() methods are already declared.
+
+Requirements: Methods: void Enqueue(T) T Dequeue() Rules: stacks as members only - stack has methods Push(T), T pop()
+
+This was written as part of a technical test in the job recruitment process for a company. This was created on the 14th of Aug, 2019.
