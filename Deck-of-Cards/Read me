@@ -1,0 +1,27 @@
+#Deck of Cards
+
+Create a deck of cards using C#. I chose to use an array for this particular question. This was made as part of a technical test that I undertook for a company on the 14th of Aug, 2019.
+
+I was asked to create a virtual deck of cards, and consider how I would create the cards, shuffle the cards, how the cards would look in the players hand, and how I would identify the type of card.
+
+My logic:
+
+    deck of cards has 52 cards
+    13 faces(deuce, two, three, four, five, six, seven, eight, nine, ten, jack, queen, king) of each suit
+    4 suits (spades, hearts, diamonds, clubs)
+
+Features Implemented:
+
+    Create and intitalize deck
+    Shuffle deck
+    3 Print functions: - current position of cards - face, suit, etc - players hand
+    Function to identify cards
+    Deal cards
+    players hand
+
+Future updates that havent been taken into consideration here:
+
+    Eliminate duplicate cards
+    Additional card drawing
+    Unique 52 cards so there are no duplicates, and only 52 cards can be played
+    Shuffle deck excludes cards in your hand
