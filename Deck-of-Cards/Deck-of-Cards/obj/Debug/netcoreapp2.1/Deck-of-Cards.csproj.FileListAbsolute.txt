@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\bin\Debug\netcoreapp2.1\Deck-of-Cards.deps.json
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\bin\Debug\netcoreapp2.1\Deck-of-Cards.runtimeconfig.json
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\bin\Debug\netcoreapp2.1\Deck-of-Cards.runtimeconfig.dev.json
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\bin\Debug\netcoreapp2.1\Deck-of-Cards.dll
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\bin\Debug\netcoreapp2.1\Deck-of-Cards.pdb
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\obj\Debug\netcoreapp2.1\Deck-of-Cards.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\obj\Debug\netcoreapp2.1\Deck-of-Cards.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\obj\Debug\netcoreapp2.1\Deck-of-Cards.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\obj\Debug\netcoreapp2.1\Deck-of-Cards.AssemblyInfo.cs
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\obj\Debug\netcoreapp2.1\Deck-of-Cards.dll
+E:\Visual Studio Projects\Technical Test Questions\Deck-of-Cards\Deck-of-Cards\obj\Debug\netcoreapp2.1\Deck-of-Cards.pdb
