@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\bin\Debug\netcoreapp2.1\Palindromic-Number-Finder.deps.json
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\bin\Debug\netcoreapp2.1\Palindromic-Number-Finder.runtimeconfig.json
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\bin\Debug\netcoreapp2.1\Palindromic-Number-Finder.runtimeconfig.dev.json
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\bin\Debug\netcoreapp2.1\Palindromic-Number-Finder.dll
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\bin\Debug\netcoreapp2.1\Palindromic-Number-Finder.pdb
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\obj\Debug\netcoreapp2.1\Palindromic-Number-Finder.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\obj\Debug\netcoreapp2.1\Palindromic-Number-Finder.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\obj\Debug\netcoreapp2.1\Palindromic-Number-Finder.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\obj\Debug\netcoreapp2.1\Palindromic-Number-Finder.AssemblyInfo.cs
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\obj\Debug\netcoreapp2.1\Palindromic-Number-Finder.dll
+E:\Visual Studio Projects\Technical Test Questions\Palindromic-Number-Finder\Palindromic-Number-Finder\obj\Debug\netcoreapp2.1\Palindromic-Number-Finder.pdb
